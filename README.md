@@ -2,12 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Olá,%20eu%20sou%20o%20Lcasmendes!&fontSize=30&fontAlignY=35&animation=twinkling"/>
 </p>
-
-<!-- Saudações dinâmicas -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Apaixonado+por+Tecnologia;Sempre+aprendendo+e+compartilhando!"/>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
