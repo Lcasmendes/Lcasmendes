@@ -1,6 +1,6 @@
 <!-- Banner ou imagem de destaque (opcional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Olá,%20eu%20sou%20o%20Lcasmendes!&fontSize=30&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Lcasmendes:%20Desenvolvedor%20&%20Analista%20de%20Dados&fontSize=32&fontAlignY=35&animation=twinkling&desc=Frontend,%20Data%20Science%20e%20AI&descAlignY=60&descFontSize=18"/>
 </p>
 
 ## 👨‍💻 Sobre mim
