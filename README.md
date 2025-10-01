@@ -11,7 +11,8 @@
 - 🗣️ Idiomas: **Português**, **Inglês** (adicione outros)
 - 🎯 Interesses: **Frontend**, **Data Science** e **AI**
 - 🧩 Hobbies: **Games** e **Livros**
-- 📫 Contato: (lucassm@estudante.ufscar.br)]| [LinkedIn](https://www.linkedin.com/in/lcasm/)
+- 📫 Contato:  [E-mail](lucassm@estudante.ufscar.br) |
+               [LinkedIn](https://www.linkedin.com/in/lcasm/)
 
 ---
 
