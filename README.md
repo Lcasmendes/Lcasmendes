@@ -59,6 +59,8 @@ Ferramentas e Serviços:
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lcasmendes&layout=compact&langs_count=7&theme=radical"/>
+    <img src="https://metrics.lecoq.io/Lcasmendes?template=classic&base=header,activity,community&isocalendar=1&config.timezone=America%2FSao_Paulo&lines=2"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lcasmendes&theme=radical&hide_border=true&locale=pt_BR"/>
 </p>
 
 ---
