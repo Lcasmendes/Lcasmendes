@@ -1,6 +1,6 @@
 <!-- Banner ou imagem de destaque (opcional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Olá,%20sou%20o%20Lucas&fontSize=38&fontAlignY=45&animation=twinkling&desc=Desenvolvedor%20Front-end%20e%20Analista%20de%20Dados&descAlignY=70&descFontSize=20&fontColor=222222&gradientColors=e0e0e0,f0f0f0,c0d0e0,d0e0f0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Bem-vindo,%20eu%20sou%20o%20Lucas!&fontSize=38&fontAlignY=45&animation=twinkling&fontColor=222222&gradientColors=e0e0e0,f0f0f0,c0d0e0,d0e0f0"/>
 </p>
 
 ## 👨‍💻 Sobre mim
