@@ -32,6 +32,13 @@
 
 ---
 
+## 🚀 Principais Projetos
+
+- 📚 **[Plataforma CAD - BIPGroup](https://https://www.brain.ufscar.br/pt)**  
+Desenvolvimento Front-end - Plataforma de auxílio ao diagnóstico de doenças neurodegenerativas, com foco na Doença de Alzheimer
+
+---
+
 ## 🛠️ Tech Stack & Ferramentas
 
 ```yaml
